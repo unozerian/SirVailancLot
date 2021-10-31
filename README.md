@@ -10,3 +10,4 @@ Such as PiHole, Some UI for weather (Wink Wink I'll try to make one), Or in this
 # Idea
 The Device is powerful enough to run as a controller for many devices like your CCTVs or Thermostat or anything that you can link up to a pi.
 
+# The Devices integrated 
